@@ -13,10 +13,7 @@ The main aim of this project is to list the items so that whenever users go to g
 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="images/main activity page.png" width="250" padding-right="10px" >  <img src="images/add item page" width="250"> 
 
