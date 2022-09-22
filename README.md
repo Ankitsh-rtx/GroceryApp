@@ -15,5 +15,5 @@ The main aim of this project is to list the items so that whenever users go to g
 
 ## Screenshots
 
-<img src="images/main activity page.png" width="250" padding-right="10px" >  <img src="images/add item page" width="250"> 
+<img src="images/main activity page.png" width="250" padding-right="10px" >  <img src="images/add item page.png" width="250"> 
 
